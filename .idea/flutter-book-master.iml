@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/Fluro企业级路由/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/Fluro企业级路由/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/Key-Value存储介绍/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/Key-Value存储介绍/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/Sqflite使用/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/Sqflite使用/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/文件存储/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第11章路由和持久化/文件存储/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第12章动画/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第12章动画/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/battery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/battery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/battery/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/battery/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/flutter_plugin_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/flutter_plugin_demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/flutter_plugin_demo/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/flutter_plugin_demo/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/nativeweb/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/nativeweb/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/nativeweb/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第13章Flutter插件开发/nativeweb/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第16章综合案例/flutter_im/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第16章综合案例/flutter_im/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第16章综合案例/flutter_website/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第16章综合案例/flutter_website/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/Http请求/Dio请求/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/Http请求/Dio请求/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/Http请求/Http请求方式/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/Http请求/Http请求方式/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/使用包资源/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/使用包资源/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/状态管理Provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第2章Flutter基础知识/状态管理Provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第5章MaterialDesign风格组件/Drawer抽屉组件/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第5章MaterialDesign风格组件/Drawer抽屉组件/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/Align对齐对局/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/Align对齐对局/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/Container容器布局/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/Container容器布局/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/GridView布局/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/GridView布局/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/Stack使用Alignment布局/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/Stack使用Alignment布局/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/布局综合示例/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第7章页面布局/布局综合示例/build" />
+      <excludeFolder url="file://$MODULE_DIR$/第9章资源和图片/自定义字体/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/第9章资源和图片/自定义字体/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
